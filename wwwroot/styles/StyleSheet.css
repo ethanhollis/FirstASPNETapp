@@ -1,0 +1,13 @@
+﻿body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color:cornflowerblue;
+   
+}
+
+label {
+    display: inline-block;
+    width: 175px;
+}
